@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Design and planning",
+    "description": "We can work from your own designs or arrange for a full design and planning service.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Project Management",
+    "description": "We pride ourselves on our project management capacity, whatever the scale of work.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Traditional and modern",
+    "description": "We stay up to date on the latest building developments whilst retaining traditional and proven craftsmanship and methods.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
